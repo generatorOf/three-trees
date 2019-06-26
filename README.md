@@ -15,3 +15,6 @@ each new branch has a brighter color
 
 
 the class tree contains values for each branch and an array container [1-4] for following new branches
+
+the idea of this code was inspired from watching videos about coding in p5.js with daniel shiffman
+like https://www.youtube.com/watch?v=0jjeOYMjmDU
